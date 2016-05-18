@@ -1,1 +1,0 @@
-C:\Program Files (x86)\Atmel\Studio\7.0\atbackend\atprogram -t edbg -i swd -d atsamd21j18a program -f f:\BTLC1000_Advertise.hex
