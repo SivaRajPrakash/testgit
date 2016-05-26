@@ -1,0 +1,8 @@
+Test fixture A13 in plm
+
+setup.py create package
+
+hexfiles,config fiiles - manifest.in
+
+execute bat file
+  compile all .py files in src and create zip file
