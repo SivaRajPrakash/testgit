@@ -1,0 +1,3 @@
+[submodule "BasicRepo"]
+	path = BasicRepo
+	url = https://github.com/SivaRajPrakash/BasicRepo.git
